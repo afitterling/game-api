@@ -1,0 +1,13 @@
+{
+  "atmosphere": {
+        "CO2": 0.4,
+    "oxygen": 0.3,
+    "Argon": 0.1,
+    "Methan": 0.1
+  },
+  "temp": {
+    "max": 300.2,
+    "min": 100.3
+  },
+  "mass": 0.4
+}
